@@ -180,7 +180,7 @@ footer {
     padding:  0 16px;
 }
 
-@media (max-width: 728px){
+@media (max-width: 576px){
   .row{
     flex-direction: column;
   }
